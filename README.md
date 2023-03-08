@@ -2,6 +2,7 @@
 
 ### Description
 This projects retrieves data from the SP100 stocks (the stocks can be changeed), and uses this data to forecast the price of a stock using the historical values.<br/>
+I used LSTMs and GRUs as the stocks values are time series of data.
 
 ### Motivation
 The goal of this project was to learn about Recurrent Neural Networks, particularly LSTMs, and to apply them to finance, in order to forecast stocks prices.
