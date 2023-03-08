@@ -13,6 +13,4 @@ The goal of this project was to learn about Recurrent Neural Networks, particula
 - PyTorch, to build and train the AI models
 
 ### How to use
-Download the main file of the repo, [SP100 - Analysis and Price Forecasting](https://github.com/timothewt/SP100_Price_Forecasting/blob/main/SP100_-_Analysis_and_Price_Forecasting.ipynb), and import them to Google Colab.
-You need to select the GPU in the execution environment.
-Then you can just execute all the cells in the file.
+Open the main file of the repo, [SP100 - Analysis and Price Forecasting](https://github.com/timothewt/SP100_Price_Forecasting/blob/main/SP100_-_Analysis_and_Price_Forecasting.ipynb), and click on "Open in Colab" at the top of the file.
